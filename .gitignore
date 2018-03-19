@@ -1,2 +1,4 @@
 .idea
 learningGo.iml
+*.exe
+debug
